@@ -1,4 +1,6 @@
 
+hello this is me working with git
+this is the first change that i make !!
 
 
 second change bois
